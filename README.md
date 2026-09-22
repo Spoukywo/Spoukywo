@@ -1,4 +1,4 @@
-# Hi, I'm Ivo (Spouky) 👋
+# Hi, I'm Ivo
 
 IT Systems & Infrastructure enthusiast focused on **Linux administration**, **networking**, and **self-hosting**. 
 
