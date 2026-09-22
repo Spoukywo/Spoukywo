@@ -6,7 +6,7 @@ Transitioning from a first year of Computer Science at the University of Geneva 
 
 ---
 
-### 🛠️ What I Do
+###  What I Do
 
 - **Linux Systems Administration**: Daily driver on Fedora; managing self-hosted Debian and Ubuntu server nodes.
 - **Homelab & Containers**: Running personal cloud infrastructure with Docker and Docker Compose (Nextcloud, Vaultwarden, Immich, Navidrome, Open WebUI, Uptime Kuma).
@@ -16,7 +16,7 @@ Transitioning from a first year of Computer Science at the University of Geneva 
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 | Domain | Technologies |
 |---|---|
@@ -28,14 +28,14 @@ Transitioning from a first year of Computer Science at the University of Geneva 
 
 ---
 
-### 📂 Featured Projects
+###  Featured Projects
 
 - **[Media Library App](https://github.com/Spoukywo/MediaLibraryApp)**: A local-first desktop GUI application (Python / Tkinter) for cataloging and managing physical (CD/DVD) and digital media with JSON persistence.
 - **Personal Homelab**: Multi-node self-hosted environment built from recycled hardware, providing encrypted backup, cloud storage, media streaming, and monitoring.
 
 ---
 
-### 🌐 Languages
+###  Languages
 
 - 🇫🇷 **French**: Native
 - 🇵🇹 **Portuguese**: Native
@@ -44,7 +44,7 @@ Transitioning from a first year of Computer Science at the University of Geneva 
 
 ---
 
-### 📬 Connect
+###  Connect
 
 - **LinkedIn**: [linkedin.com/in/ivo-almeida-delgado-tech](https://www.linkedin.com/in/ivo-almeida-delgado-tech/)
 - **Email**: [ivo.almeidad@protonmail.com](mailto:ivo.almeidad@protonmail.com)
